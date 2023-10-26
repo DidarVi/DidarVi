@@ -1,3 +1,4 @@
+[![Banner Image](https://example.com/path/to/your/image.jpg)](https://link-to-your-project)
 <h1 align="center">Hi 👋, I'm Didar.</h1>
 <h3 align="center">A passionate Laravel developer from Bangladesh. I'm doing BSC in CSE from North South University.</h3>
 
@@ -5,13 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=didarvi" alt="didarvi" /></a> </p>
 
-- 🔭 I’m currently working on a deep learning project. Point Cloud Recognition **Point Cloud Recognition**
+- 🔭 I’m currently working on a deep-learning project. Point Cloud Recognition **Point Cloud Recognition**
 
 - 🌱 I’m currently learning **System Design and professional project management**
 
 - 👯 I’m looking to collaborate on this project. **3D object Detection**
 
-- 🤝 I’m looking for help with deep learning project **3D object Detection**
+- 🤝 I’m looking for help with deep-learning project **3D object Detection**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DidarVi](https://github.com/DidarVi)
 
