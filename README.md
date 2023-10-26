@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DidarVi](https://github.com/DidarVi)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/didarul-islam-659aa3266/](https://www.linkedin.com/in/didarul-islam-659aa3266/)
+- 📝 I regularly write articles on [[https://www.linkedin.com/in/didarul-islam-659aa3266/](https://www.linkedin.com/in/didarul-islam-659aa3266/](https://www.linkedin.com/in/didarul-islam-659aa3266/recent-activity/articles/))
 
 - 💬 Ask me about **C++, Python, JS, PHP, Laravel, SEO, System Design, Project Management**
 
