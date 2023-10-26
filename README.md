@@ -1,4 +1,4 @@
-[![Banner Image]([https://example.com/path/to/your/image.jpg)](https://link-to-your-project](https://github.com/DidarVi/DidarVi/blob/main/github_banner.png))
+[![Banner Image]([https://github.com/yourusername/yourrepository/raw/main/path/to/your/image.jpg)](https://link-to-your-project](https://raw.githubusercontent.com/DidarVi/DidarVi/main/github_banner.png))
 <h1 align="center">Hi 👋, I'm Didar.</h1>
 <h3 align="center">A passionate Laravel developer from Bangladesh. I'm doing BSC in CSE from North South University.</h3>
 
