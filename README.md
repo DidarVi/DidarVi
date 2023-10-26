@@ -1,4 +1,4 @@
-![Banner Image](https://raw.githubusercontent.com/DidarVi/DidarVi/main/github_banner.png)
+![Banner Image](https://raw.githubusercontent.com/DidarVi/DidarVi/main/github_banner2.png)
 <h1 align="center">Hi 👋, I'm Didar.</h1>
 <h3 align="center">A passionate Laravel developer from Bangladesh. I'm doing BSC in CSE from North South University.</h3>
 
@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on this project. **3D object Detection**
 
-- 🤝 I’m looking for help with deep-learning project **3D object Detection**
+- 🤝 I’m looking for help with a deep-learning project **3D object Detection**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DidarVi](https://github.com/DidarVi)
 
